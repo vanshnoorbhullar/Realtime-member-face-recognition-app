@@ -1,0 +1,49 @@
+body{
+    background-size: 100%;
+}
+
+.heading{
+ font-size: 23px;
+ width: 100%;
+ margin: 0px;
+ box-shadow: 5px 5px 5px rgb(165, 135, 255);
+ background-color: lawngreen;
+ color: rgb(165, 135, 255);
+}
+
+.heading_div{
+float:none;
+background-color: rgb(165, 135, 255);
+color: lawngreen;
+padding: 10px;
+border-radius: 20px;
+box-shadow: 5px 5px 100p lawngreen;
+}
+
+.heading_div2{
+    font-size: 18px;
+    background-color: lawngreen;
+}
+
+.result_parah_tag {
+    box-shadow: 5px 5px 5px lawngreen;
+    font-size: 20px;
+    background-color: rgb(165, 135, 255);
+}
+
+canvas {
+    border: 5px solid rgb(165, 135, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px lawngreen;
+    margin-top: 150px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: lawngreen;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(165, 135, 255);
+    line-height: 3;
+    text-align: center;
+}
